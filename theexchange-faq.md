@@ -1,5 +1,3 @@
-© 2018 Fannie Mae. Trademarks of Fannie Mae. 10.26.2018 1 of 2
-
 # The Exchange™ by Fannie Mae 
 # FAQs
 
@@ -45,9 +43,6 @@ A: An Application Programming Interface (API) is a software intermediary that al
 other. APIs are typically created by organizations to allow individuals – or applications such as Google Maps – to access
 their data.
 
-
-© 2018 Fannie Mae. Trademarks of Fannie Mae. 10.26.2018 2 of 2
-
 ## Q: How do I try out the APIs?
 
 A: To try out the APIs, follow these steps:
@@ -85,4 +80,7 @@ representative will respond to your inquiry.
 
  A: The Pilot process will begin with a personalized kick-off session. Stay tuned for more information about your session.
 
+
+
+© 2018 Fannie Mae.Trademarks of Fannie Mae.                                                            10.26.2018    1 of 1
 
